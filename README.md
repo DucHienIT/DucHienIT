@@ -1,40 +1,44 @@
-<img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
-<h1 align="center">Hi 👋, I'm Duc Hien</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="unity" width="400" />
 </p>
 
-<br />
+# Duc Hien - Unity Developer
 
-## Skills:
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
-  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
-  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+  <a href="https://www.linkedin.com/in/hi%E1%BB%83n-nguy%E1%BB%85n-%C4%91%E1%BB%A9c-274729250/">
+    <img src="https://img.shields.io/badge/LinkedIn--blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/DucHienIT">
+    <img src="https://img.shields.io/badge/GitHub--black?style=flat&logo=github" alt="GitHub" />
+  </a>
 </p>
 
-## Activities:
+## About Me
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
-    </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
-    </td>
-  </tr>
-</table>
+👋 Hi, I'm Duc Hien, a passionate Unity Developer from Vietnam. I have a strong passion for creating immersive and interactive experiences through game development. With a solid foundation in Unity and C#, I enjoy bringing ideas to life and solving complex challenges in game development.
 
+## Skills
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/unity.png" alt="unity" />
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="csharp" />
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" />
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="github" />
+  <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visualstudio" />
+</p>
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+- 🚀 [Max Fire](https://github.com/DucHienIT/GameIndie_DH01): Max Fire is an action-packed 2D shooting game.
+- 🚀 [Space Ship](https://github.com/DucHienIT/Game_Space_Ship): SpaceShip is a 2D side-scrolling game developed using Unity2D
+- 🚀 [Adventure RPG](https://github.com/DucHienIT/GAME_PYTHON): This is a 2D role-playing game (RPG) built in Python using the Pygame library. 
+
+## Let's Connect
+
+I'm always interested in collaborating on new and exciting projects. If you have any opportunities or just want to say hi, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hi%E1%BB%83n-nguy%E1%BB%85n-%C4%91%E1%BB%A9c-274729250/) or [GitHub](https://github.com/DucHienIT). Let's create something amazing together!
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/104773/screenshots/5615753/dribbble_1.gif" alt="dev" width="400" />
+</p>
