@@ -4,9 +4,6 @@
   <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
 </p>
 
-
-- ✍ I'm a middle software developer at [AkaChain](https://akachain.io/).
-
 <br />
 
 ## Skills:
